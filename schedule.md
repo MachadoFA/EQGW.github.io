@@ -46,27 +46,28 @@ All times are Pacific Daylight Time (EDT).  Note that Pacific Daylight Time (EDT
 | 2:45 - 4:15 | [Exercise 2-2: G-matrix exercise](2025/exercise2-2.html) | Jacqueline Sztepanacz  |
 | 4:15 - 4:30 | Break | |
 | 4:30 - 5:30 | [Lecture 2-3: Brownian Motion](2025/lecture 2-3.html) | Joe Felsenstein (Virtual) | 
+| 8:00 - 9:00 | MLBS Lecture Series | Laura Alencar | 
 | | | |
 | **Wednesday, June 11th** | | |
-| 9:00 - 10:00 | [Lecture 3-1:  EQG \& Genomics](2025/lecture3-1.html) | Jacqueline Sztepanacz |
+| 9:00 - 10:00 | [Lecture 3-1:  EQG & Genomics](2025/lecture3-1.html) | Jacqueline Sztepanacz |
 | 10:00 - 11:00 | [Lecture 3-2: Evolving G-matrices](2025/lecture3-2.html) | Joel McGlothlin | 
 | 11:15 - 12:00 | [Exercise 3-1: G-matrices](2025/exercise3-1.html) | Joel McGlothlin |
 | 12:00 - 1:30 | meal break | all |
-| 1:30 - 2:30 | [Lecture 3-3: Micro2Macro-EQG to Comparative methods](2025/exercise3-1.html) | Joel McGlothlin \& Josef Uyeda | 
+| 1:30 - 2:30 | [Lecture 3-3: Micro2Macro-EQG to Comparative methods](2025/exercise3-1.html) | Joel McGlothlin & Josef Uyeda | 
 | 2:30 - 3:15 | [Exercise 3-2: EQG on trees](2025/exercise3-2.html) | Josef Uyeda |
 | 3:15 - 3:30 | Break | | 
 | 3:30 - 4:30 | [Lecture 3-4: The Paradox of Predictability](2025/lecture3-4.html) | Fabio Machado |
 | 4:30 - 5:30 | Discussion | Team |
 | 5:30 - 6:30 | Dinner | all |
-| 6:30 - 8:00 | Breakouts | Joe Felsenstein \& Stevan J Arnold | 
+| 6:30 - 8:00 | Breakouts | Joe Felsenstein & Stevan J Arnold | 
 | | | |
 | **Thursday, June 12th** | | |
 | 9:00 - 10:00 | [Lecture 4-1: Trait evolution on trees](2025/lecture4-1.html) | Laura Alencar |
-| 10:00 - 11:00 |[Exercise 4-1: Intro to PCMs](2025/exercise4-1.html)| Laura Alencar \& Josef Uyeda |
+| 10:00 - 11:00 |[Exercise 4-1: Intro to PCMs](2025/exercise4-1.html)| Laura Alencar & Josef Uyeda |
 | 11:15 - 12:00 | [Lecture 4-2: Ornstein-Uhlenbeck models](2025/lecture4-2.html) | Laura Alencar |
 | 12:00 - 1:30 | meal break | all |
-| 1:30 - 3:00 | [Exercise 4-2: OU models](2025/exercise4-2.html) | Laura Alencar \& Josef Uyeda | 
-| 3:00 - 4:00 | [Lecture 4-3: Measurement \& meaning](2025/lecture4-3.html) | Josef Uyeda |
+| 1:30 - 3:00 | [Exercise 4-2: OU models](2025/exercise4-2.html) | Laura Alencar & Josef Uyeda | 
+| 3:00 - 4:00 | [Lecture 4-3: Measurement & meaning](2025/lecture4-3.html) | Josef Uyeda |
 | 4:00 - 4:15 | break | |
 | 4:15 - 5:15 | [Lecture 4-4: Best practices in PCMs](2025/lecture4-4.html) | Fabio Machado |
 | 5:15 - 5:30 | discussion | |
@@ -76,10 +77,10 @@ All times are Pacific Daylight Time (EDT).  Note that Pacific Daylight Time (EDT
 | **Friday, June 13th** | | |
 | 9:00 - 10:00 | [Lecture 5-1: Multivariate PCMs](2025/lecture5-1.html) | Fabio Machado |
 | 10:00 - 10:15 | break | | 
-| 10:15 - 12:00 | [Exercise 5-1: Morphometrics](2025/exercise5-1.html) | Fabio Machado \& Josef Uyedaa|
+| 10:15 - 12:00 | [Exercise 5-1: Morphometrics](2025/exercise5-1.html) | Fabio Machado & Josef Uyedaa|
 | 12:00 - 1:30 | meal break | all |
 | 1:30 - 2:30 | [Lecture 5-2: Threshold model and discrete/continuous connections](2025/lecture5-2.html) | Josef Uyeda
-| 2:30 - 3:30 | [Exercise 5-2: Discrete \& continuous model connections](2025/exercise5-2.html) | Josef Uyeda |
-| 3:30 - 4:30 | Links between scales: Discussion for all | all instructors \& participants |
+| 2:30 - 3:30 | [Exercise 5-2: Discrete & continuous model connections](2025/exercise5-2.html) | Josef Uyeda |
+| 3:30 - 4:30 | Links between scales: Discussion for all | all instructors & participants |
 | 4:30 - 5:00 | Participant feedback | all |
 | 5:30 - 6:30 | Dinner | all |
