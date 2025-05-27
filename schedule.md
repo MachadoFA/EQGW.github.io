@@ -1,82 +1,85 @@
 
 # Evolutionary Quantitative Genetics Workshop #
 
-
-|        |        |        |    |
-|--------|---------------------------------------------|--------------------|------------------------------------------|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2023 Workshop](/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SCHEDULE](/2022/schedule.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Resources](/2022/resources.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREVIOUS YEARS](/2022/previous.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+---
+|[Workshop](/index.html)| [SCHEDULE](/schedule.md) |[Resources](/resources.md) | [PREVIOUS YEARS](/previous.md) |
 
 
 <div align="left">
-<img src="/media/FHLimage2018b.jpg" alt="FHL waterfront in 2018">
+<img src="./media/SWVirginiaMtns.jpg" alt="SW Virginia Mountains">
 </div>
 
-# _After this point, the schedule is last year's schedule, for an online workshop_
+# 2025 Workshop Schedule
 
-_It will gradually be updated as the Workshop nears.  To see the most recent example of the schedule of an in-person workshop, use the Previous Years link above, and go to the 2019 schedule._
+_This schedule is subject to updates and changes._
 
 &nbsp;
 
-# Schedule for 2022 Workshop #
 
-All times are Pacific Daylight Time (PDT).  Note that Eastern Daylight Time (EDT) is 3 hours later in the day.
+All times are Pacific Daylight Time (EDT).  Note that Pacific Daylight Time (EDT) is 3 hours earlier in the day.
 
-<em>These were the scheduled times.  We sometimes fell behind this schedule, or even ahead.</em>
+<em>These are the scheduled times.  We sometimes fall behind this schedule or even ahead.</em>
 
 | time | topic  |  speaker(s) |
 |---------|-------------|------------------|
 | | | |
-| **Monday, July 11**  |   |    |   
-| 9:00 - 9:30 | [Introduction](2022/lecture1-1.html) | Steve Arnold, Joe Felsenstein |
-| 9:30 - 10:00 | Introductions of participants | themselves |
-| 10:00 - 11:15 | [Lecture 1-2:  Inheritance and response to selection, in two parts](2022/lecture1-2.html) | Steve Arnold | 
-| 11:15 - 11:30 | Discussion | participants |
-| 11:30 - 12:00 | [Exercise 1-1:  Heritability estimation by parent-offspring regression in R](2022/exercise1-1.html) | Josef Uyeda |
-| 12:00 - 12:15 | Discussion | participants |
-| 12:15 - 1:30 | meal break | all |
-| 1:30 - 2:45 | [Lecture 1-3:  Selection as a surface, in two parts](2022/lecture1-3.html) | Steve Arnold |
-| 2:45 - 3:00 | Discussion | participants |
-| 3:00 - 3:30 | [Exercise 1-2:  Estimating a selection surface](2022/exercise1-2.html)  | Josef Uyeda |
-| 3:30 - 3:45 | Discussion | participants |
-| 3:45 - 5:00 | [Lecture 1-4:  Evolution on adaptive landscapes, in two parts](2022/lecture1-4.html) | Steve Arnold |
-| 5:00 - 5:15 | Discussion | participants |
+| **Monday, June 9th**  |   |    |   
+| 9:00 - 10:00 | [Lecture 1-1: Introduction](2025/lecture1-1.html) | Josef Uyeda |
+| 10:00 - 10:30 | Introductions of participants | Participants |
+| 10:30 - 10:45 | Break |  | 
+| 10:45 - 11:45 | [Lecture 1-2: Quantitative Genetics Intro](2025/lecture1-2.html) | Pat Carter |
+| 11:45 - 12:00 | Discussion | Pat Carter |
+| 12:00 - 1:30 | Lunch | |
+| 1:30 - 2:15 | [Lecture 1-3: History of Course & Goals](2025/lecture1-3.html) | Joe Felsenstein |
+| 2:15 - 2:30 | Discussion | Joe Felsenstein |
+| 2:30 - 3:30 | [Exercise 1-1: Selection & Inheritance Exercise](2025/exercise1-1.html)| Pat Carter |
+| 3:30 - 5:30 | Participant Slideshows | Participants |
 |  |  |  |
-| **Tuesday, 12 July** | | |
-| 9:00 - 10:15 | [Lecture 2-1:  Estimation of inheritance with fixed and random effects](2022/lecture2-1.html) | Patrick Carter | 
-| 10:15 - 10:30 | Discussion | participants |
-| 10:30 - 11:30 | [Exercise 2-1:  Using MCMCglmm in R to estimate inheritance](2022/exercise2-1.html) | Patrick Carter |
-| 11:30 - 12:00 | Discussion | participants |
-| 12:00 - 12:30 | meal break | all |
-| 12:30 - 1:30 | [Lecture 2-2:  Simulations of evolution of the G-matrix](2022/lecture2-2.html) | Adam Jones | 
-| 1:30 - 2:00 | [Exercise 2-2:  Evolution of the G-matrix](lecture2-2.html) | Adam Jones |
-| 2:00 - 2:15 | Discussion | participants | 
+| **Tuesday, June 10th** | | |
+| 9:00 - 10:00 | [Lecture 2-1:  Mixed model approaches to estimating inheritance](2025/lecture2-1.html) | Patrick Carter | 
+| 10:00 - 10:15 | Discussion | participants |
+| 10:15 - 10:30 | Break | |
+| 10:30 - 12:00 | [Exercise 2-1: MCMCglmm + (hints at multivariate world)](2025/exercise2-1.html) | Pat Carter |
+| 12:00 - 1:30 | meal break | all |
+| 1:30 - 2:30 | [Lecture 2-2: G-matrices & selection](2025/lecture2-2.html) | Jacqueline Sztepanacz | 
+| 2:30 - 2:45 | Discussion | | 
+| 2:45 - 4:15 | [Exercise 2-2: G-matrix exercise](2025/exercise2-2.html) | Jacqueline Sztepanacz  |
+| 4:15 - 4:30 | Break | |
+| 4:30 - 5:30 | [Lecture 2-3: Brownian Motion](2025/lecture 2-3.html) | Joe Felsenstein (Virtual) | 
 | | | |
-| **Wednesday, 13 July** | | |
-| 9:00 - 10:15 | [Lecture 3-1:  Evolution in the short term and the long term](2022/lecture3-1.html) | Josef Uyeda |
-| 10:15 - 10:30 | Discussion | participants |
-| 10:30 - 11:15 | [Lecture 3-2: Micro to Macroevolution: What does Quantitative Genetics have to do with Comparative methods?](2022/lecture3-2.html) | Josef Uyeda | 
-| 11:15 - 11:30 | Discussion | participants |
-| 11:30 - 12:30 | [Lecture 3-3: Brownian Motion and comparative methods](2022/lecture3-3.html) | Joe Felsenstein and Samantha Price |
-| 12:30 - 1:00 | meal break | all |
-| 1:00 - 1:30 | [Exercise 3-1: Brownian Motion / comparative methods](2022/exercise3-1.html) | Samantha Price and Joe Felsenstein | 
-| 1:30 - 1:45 | break | all |
-| 1:45 - 2:45 | [Lecture 3-4: OU models on phylogenies](2022/lecture3-4.html) | Brian O'Meara |
-| **Thursday, 14 July** | | |
-| 9:00 - 9:45 | [Exercise 4-1: OU models and methods](2022/exercise4-1.html) | Brian O'Meara |
-| 9:45 - 10:00 | Discussion | participants |
-| 10:00 - 10:45 | [Lecture 4-1: Simulation using models of evolution](2022/lecture4-1.html) | Samantha Price |
-| 10:45 - 11:00 | break |  |
-| 11:00 - 12:00 | [Lecture 4-2: Identifiability, model adequacy and measurement error](2022/lecture4-2.html) | Brian O'Meara, Samantha Price and Joe Felsenstein | 
-| 12:00 - 12:15 | break |  |
-| 12:15 - 12:45 | [Exercise 4-2:  Simulations and Measurement error](2022/exercise4-2.html) | Brian O'Meara and Samantha Price |
-| 12:45 - 1:00 | Discussion | participants |
-| 1:00 - 1:15 | break | |
-| 1:15 - 2:15 | [“Participants' choice”: three successive 20-minute breakout rooms with some of the lecturers](2022/lecture4-3.html) | all lecturers and participants |
+| **Wednesday, June 11th** | | |
+| 9:00 - 10:00 | [Lecture 3-1:  EQG \& Genomics](2025/lecture3-1.html) | Jacqueline Sztepanacz |
+| 10:00 - 11:00 | [Lecture 3-2: Evolving G-matrices](2025/lecture3-2.html) | Joel McGlothlin | 
+| 11:15 - 12:00 | [Exercise 3-1: G-matrices](2025/exercise3-1.html) | Joel McGlothlin |
+| 12:00 - 1:30 | meal break | all |
+| 1:30 - 2:30 | [Lecture 3-3: Micro2Macro-EQG to Comparative methods](2025/exercise3-1.html) | Joel McGlothlin \& Josef Uyeda | 
+| 2:30 - 3:15 | [Exercise 3-2: EQG on trees](2025/exercise3-2.html) | Josef Uyeda |
+| 3:15 - 3:30 | Break | | 
+| 3:30 - 4:30 | [Lecture 3-4: The Paradox of Predictability](2025/lecture3-4.html) | Fabio Machado |
+| 4:30 - 5:30 | Discussion | Team |
+| 5:30 - 6:30 | Dinner | all |
+| 6:30 - 8:00 | Breakouts | Joe Felsenstein \& Stevan J Arnold | 
 | | | |
-| **Friday, 15 July** | | |
-| 9:00 - 10:00 | [Lecture 5-1: Morphometrics on phylogenies](2022/lecture5-1.html) | Joe Felsenstein |
-| 10:00 - 10:45 | [Exercise 5-1: Morphometrics](2022/exercise5-1.html) | Joe Felsenstein|
-| 10:45 - 11:15 | break |  |
-| 11:15 - 12:15 | [Lecture 5-2: Threshold model (30 minutes), and Comments on using QTLs and sequence data (30 minutes)](2022/lecture5-2.md) | Joe Felsenstein |
-| 12:15 - 2:15 | Discussion: Wrap up Q & A with surviving participants and lecturers | all |
-| 2:15 - 2:45 | Feedback from participants | Steve Arnold or Joe Felsenstein |
+| **Thursday, June 12th** | | |
+| 9:00 - 10:00 | [Lecture 4-1: Trait evolution on trees](2025/lecture4-1.html) | Laura Alencar |
+| 10:00 - 11:00 |[Exercise 4-1: Intro to PCMs](2025/exercise4-1.html)| Laura Alencar \& Josef Uyeda |
+| 11:15 - 12:00 | [Lecture 4-2: Ornstein-Uhlenbeck models](2025/lecture4-2.html) | Laura Alencar |
+| 12:00 - 1:30 | meal break | all |
+| 1:30 - 3:00 | [Exercise 4-2: OU models](2025/exercise4-2.html) | Laura Alencar \& Josef Uyeda | 
+| 3:00 - 4:00 | [Lecture 4-3: Measurement \& meaning](2025/lecture4-3.html) | Josef Uyeda |
+| 4:00 - 4:15 | break | |
+| 4:15 - 5:15 | [Lecture 4-4: Best practices in PCMs](2025/lecture4-4.html) | Fabio Machado |
+| 5:15 - 5:30 | discussion | |
+| 5:30 - 6:30 | Dinner | all |
+| 6:30 - 8:00 | Breakouts | Instructor Team | 
+| | | |
+| **Friday, June 13th** | | |
+| 9:00 - 10:00 | [Lecture 5-1: Multivariate PCMs](2025/lecture5-1.html) | Fabio Machado |
+| 10:00 - 10:15 | break | | 
+| 10:15 - 12:00 | [Exercise 5-1: Morphometrics](2025/exercise5-1.html) | Fabio Machado \& Josef Uyedaa|
+| 12:00 - 1:30 | meal break | all |
+| 1:30 - 2:30 | [Lecture 5-2: Threshold model and discrete/continuous connections](2025/lecture5-2.html) | Josef Uyeda
+| 2:30 - 3:30 | [Exercise 5-2: Discrete \& continuous model connections](2025/exercise5-2.html) | Josef Uyeda |
+| 3:30 - 4:30 | Links between scales: Discussion for all | all instructors \& participants |
+| 4:30 - 5:00 | Participant feedback | all |
+| 5:30 - 6:30 | Dinner | all |
