@@ -3,7 +3,7 @@
 
 |        |        |        |    |
 |--------|---------------------------------------------|--------------------|------------------------------------------|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2023 Workshop](/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SCHEDULE](/schedule.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Resources](/resources.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREVIOUS YEARS](/previous.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2025 Workshop](/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SCHEDULE](2025/schedule.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Resources](2025/resources.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREVIOUS YEARS](2025/previous.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 
 <div align="left">
@@ -81,6 +81,7 @@ You probably want to link to PDF or PPT files of slides, to files of R exercises
 
 Note that your changes will appear in the workshop web pages, but only after a delay of perhaps 15 minutes.
 
+# WARNING -- The next two sections are obsolete and will be revised soon.  All files will go into the Github repository #
 
 ## Posting files at Google Drive to be linked to from the EQGW Github webpage ##
 
@@ -89,7 +90,7 @@ Files such as lecture projections (PPT or PDF), or supplementary documents, or R
 1. Go to your Google Drive account and log in, with the username of yours that we gave permission to share folders with the  fhleqg@gmail.com  Google account.
 2. After you have chosen the Google Drive icon, on the left side of the window you will find a menu item "Shared with me".
 3. Select it.  A list of folders or files that have been recently shared with you will appear.
-4. Find the one with the year number for EQGW, such as "2023".
+4. Find the one with the year number for EQGW, such as "2022".
 5. Select it.  A set of folders should appear with names such as "lecture3-2".
 6. Find the one for your lecture and open it.  If none appears, choose New Folder and make one.
 7. Now an area will appear in which you can drag-and-drop any files that you want to store there.
