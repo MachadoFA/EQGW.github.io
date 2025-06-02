@@ -6,7 +6,7 @@
 
 
 <div align="left">
-<img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virginia mountains">
+<img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virginia mountains]">
 </div>
 
 # 2025 Workshop Schedule
