@@ -1,7 +1,5 @@
 
-# Evolutionary Quantitative Genetics Workshop #
-
----
+|                       |                                 |                                  |                         |
 |[Workshop](/index.html)| [SCHEDULE](/2025/schedule.html) |[Resources](/2025/resources.html) | [PREVIOUS YEARS](/2025/previous.md) |
 
 
@@ -9,7 +7,7 @@
 <img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virginia mountains]">
 </div>
 
-# 2025 Workshop Schedule
+# 2025 Workshop Schedule #
 
 _This schedule is subject to updates and changes._
 
