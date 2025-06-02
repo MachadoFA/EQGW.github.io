@@ -3,26 +3,26 @@
 
 |        |        |        |    |
 |--------|---------------------------------------------|--------------------|------------------------------------------|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2025 Workshop](/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SCHEDULE](2025/schedule.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Resources](2025/resources.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREVIOUS YEARS](2025/previous.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2025 Workshop](/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SCHEDULE](/2025/schedule.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [RESOURCES](/2025/resources.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREVIOUS YEARS](/2025/previous.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 
 <div align="left">
-<img src="/media/FHLimage2018b.jpg" alt="FHL waterfront in 2018">
+<img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virginia mountains]">
 </div>
 
 
 # For workshop lecturers: editing lecture and exercise pages and posting files #
 
-The lecturers in the workshop have been given access to the Github account of the Workshop, to enable them to add pages to the site, or to edit pages on the site, or to post files and make links to them. They should start each such session by logging into the site github.com/EQGW/ using their own Github username and the password that they established for their own Github account.
+The lecturers in the workshop have been given access to the Github account of the Workshop, to enable them to add pages to the site, or to edit pages on the site, or to post files and make links to them. They should start each such session by logging into the site github.com/EQGW/ using their own Github username and the password that they established for their own Github account.  Make sure, if it is available, to look on the right-hand center of the page to see whether there is a button allowing you to choose whether to be regarded as a member of the Public or as a Member.  You should choose Member.
 
 
 
 
 ## Adding a new lecture or exercise web page ##
 
-I will create pages for all the lectures, and as we add computer labs, I will try to create pages in a timely way.
+We will create pages for all the lectures, and as we add computer labs, we will try to create pages in a timely way.
 
-These instructions show how to do it if I did not make such a page.  If I did make one, simply find the page in this year's folder on the EQGW Github site
+These instructions show how to do it if we did not make such a page.  If I did make one, simply find the page in this year's folder on the EQGW Github site
 and skip this section and go to the one below, about how to edit an existing page.
 
 If we do not already have a page for the lecture, figure out what its name will be.  You can figure 
@@ -43,7 +43,7 @@ that the user sees will be called &nbsp; lecture3-2.html
 If when you go to find the pages, you do not 
 see the folder for the year, you might see a link called "Code" which will make it visible.
 
-1.  Look in the year folder, and verify that there is no file of that name.  If there is such a file,
+1.  Look in the year folder, and in any folders within that, and verify that there is no file of that name.  If there is such a file,
 skip this section of these instructions and go to the next section, which tells how to edit the file.
 2.  If there is no file for the lecture, start out by clicking on the filename of some other lecture ".md" file
 3.  It will be brought up in edit mode.  Copy all the contents of that file.  Do not change anything in that file or a fellow lecturer, whose lecture that is, will get upset with you.
