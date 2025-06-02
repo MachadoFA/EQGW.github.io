@@ -77,11 +77,11 @@ Once there is a web page for a lecture or exercise for this year, you may want t
 9. **_But_** whatever you do, when you are ready to go elsewhere, _don't_ until you go down to the green button that asks you to "Commit changes", and press that confidently enough that it changes color, showing that you weren't too timid.  Otherwise, of course, when you leave you will lose everything you changed.
 10. In the Preview mode, Github will show you what the page will look like based on what you committed.  If that has problems, find the small pencil icon above this preview, and to the right, and use it to reopen editing.  Any further changes you make of course need to be saved using Commit.
 
-You probably want to link to PDF or PPT files of slides, to files of R exercises, and other media.  Do <em>not put these files into our Github repository</em>, but instead post those files to the appropriate folder for Google Drive for the fhleqg Gmail account.  Use the instructions below for “posting files to be linked to from the web page” and also the instructions below that for obtaining the link for each such file to make a link from the web page that you are creating in this list of instructions.
+You probably want to link to PDF or PPT files of slides, to files of R exercises, and other media.  Put these files into our Github repository, in the folder named for the lecture or exercise.
 
 Note that your changes will appear in the workshop web pages, but only after a delay of perhaps 15 minutes.
 
-# WARNING -- The next two sections are obsolete and will be revised soon.  All files will go into the Github repository #
+# WARNING -- The next two sections are obsolete and will be revised soon.  All files will go into the Github repository, not Google Drive #
 
 ## Posting files at Google Drive to be linked to from the EQGW Github webpage ##
 
