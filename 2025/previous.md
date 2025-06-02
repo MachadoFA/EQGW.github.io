@@ -2,7 +2,7 @@ Quantitative Genetics Workshop #
 
 |        |        |        |    |
 |--------|---------------------------------------------|--------------------|------------------------------------------|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2025 Workshop](/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SCHEDULE](2025/schedule.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Resources](2025/resources.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREVIOUS YEARS](2025/previous.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2025 Workshop](/index.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SCHEDULE](/2025/schedule.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Resources](/2025/resources.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREVIOUS YEARS](/2025/previous.html) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 
 <div align="left">
@@ -17,9 +17,9 @@ Quantitative Genetics Workshop #
 
 Including pages for the individual lectures, including lecture projections, video recordings of lectures, and files for computer exercises
 
-[2022 Workshop](https://EQGW.github.io/2022/schedule.md)
+[2022 Workshop](https://EQGW.github.io/2022/schedule.html)
 
-[2021 Workshop](https://EQGW.github.io/2021/schedule.md)
+[2021 Workshop](https://EQGW.github.io/2021/schedule.html)
 
 ## In-person workshop at Friday Harbor Labs ##
 
@@ -47,13 +47,13 @@ The workshop was held from 2014 to 2016 at the National Institute for Mathematic
 The main tutorial page for each of these years includes a link to YouTube videos of the livestreamed lectures.  Once you get used to the lecturer often appearing twice (there were two cameras, one pointed at the projection screen, the other at the podium and whiteboard), these convey the content of the workshop lectures well.  You should also be able to go to the webpage for the lecture and get your own copy of the lecture projection (PowerPoint or PDF), to see the projection more clearly.  Computer exercises were not video-recorded.  Many thanks to the wonderful NIMBioS staff for making these available.
 
 
-[2016 Workshop](http://www.nimbios.org/tutorials/TT_eqg2016)
+[2016 Workshop](https://www.nimbios.org/tutorials/TT_eqg2016)
 
 
-[2015 Workshop](http://www.nimbios.org/tutorials/TT_eqg2015)
+[2015 Workshop](https://www.nimbios.org/tutorials/TT_eqg2015)
 
 
-[2014 Workshop](http://www.nimbios.org/tutorials/TT_eqg)
+[2014 Workshop](https://www.nimbios.org/tutorials/TT_eqg)
 
 &nbsp;
 
