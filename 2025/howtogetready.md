@@ -7,20 +7,25 @@
 
 
 <div align="left">
-<img src="/media/SWVirginiaMountains.jpg" alt="[Southwest Virginia Mountains">
+<img src="../media/SWVirginiaMountains.jpg" alt="[Southwest Virginia Mountains">
 </div>
 <P>
 
 ## How to get ready for the workshop! ##
 
-Our five day course at Mountain Lake Biological Station will be fast-paced, so here are some 
-points to keep in mind in getting ready for it.  As you can see from the Schedule, 
-we generally have a lecture on a topic, followed by some discussion, then 
-(but not always) a computer exercise on that topic and then finally some more discussion. 
+Our five day course at Mountain Lake Biological Station will be fast-paced, so 
+here are some points to keep in mind in getting ready for it.  As you can see 
+from the Schedule, we generally have a lecture on a topic, followed by some 
+discussion, then (but not always) a computer exercise on that topic and then 
+finally some more discussion. 
+
 Before the start of the week, you may want to look over the Schedule and 
-do a little background reading for the lectures that interest you the most. 
-The problem that you will now confront is that all the material for the 
-lectures of interest may not be posted and will not be posted until the day of the lecture. 
+do a little [background reading](2025/readinglist.html). Additional reading may
+be associated with specific lectures, and you may want to look at the lectures 
+that interest you the most. The problem that you will now confront is that all the 
+material for the lectures of interest may not be posted and will not be posted 
+until the day of the lecture. 
+
 No worries!  Go to the Schedule for last year’s version of the course 
 (click Previous years in the top ribbon) and find the most relevant lecture. There 
 will often be very similar to the one in this year’s schedule.  On last year's Schedule 
@@ -37,8 +42,4 @@ tutorials in R, in which you will follow along as the instructor guides you thro
 the tutorial.  You will not need much knowledge to follow along, but you will need 
 to execute commands in R and look at and possibly save graphical output.   Often 
 the instructor will use R Studio and so it will be useful for you to have R Studio 
-installed on your laptop so you can more easily follow along.  R Studio is a 
-user-friendly front end for R.  Free downloads are available at 
-https://www.rstudio.com/products/rstudio/download2/  &nbsp;&nbsp;  After you have successfully 
-downloaded R Studio you might practice with it by loading R script and running it. 
-You can find instructional videos on YouTube that may help you get acquainted with R Studio.
+installed on your laptop so you can more easily follow along. See the [resources page](2025/resources.html).

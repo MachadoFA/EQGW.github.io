@@ -40,28 +40,27 @@ easier.
 * Installing and using git
 This is optional, but if you want to be able to interact with the github repository
 and easily download course materials all at once, we recommend you use git. 
-- [Installing git guide](https://github.com/git-guides/install-git)
-- [Getting started with github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
-- [Using git, github, and Rstudio](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
+  - [Installing git guide](https://github.com/git-guides/install-git)
+  - [Getting started with github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
+  - [Using git, github, and Rstudio](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
 
 [Need help using R?](http://sites.uw.edu/fhleqg/2017/05/15/need-help-using-r/)
 
-List of R packages you need to install on your computer (this list is still evolving):
-
-* MCMCglmm
-* ape
-* MasterBayes
-* ggplot2
-* plyr
-* car
-* OUwie
-* bayou
-* phytools
-* corhmm
-* geiger
-* nlme
-* usethis
-* gitcreds
+* List of R packages you need to install on your computer (this list is still evolving):
+  * MCMCglmm
+  * ape
+  * MasterBayes
+  * ggplot2
+  * plyr
+  * car
+  * OUwie
+  * bayou
+  * phytools
+  * corhmm
+  * geiger
+  * nlme
+  * usethis
+  * gitcreds
 
 [How to get ready for the workshop!](/2025/howtogetready.html)
 
