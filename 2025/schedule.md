@@ -29,7 +29,7 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 11:45 - 12:00 | Discussion | Pat Carter |
 | 12:00 - 1:30 | Lunch | |
 | 1:30 - 2:00 | More discussion of quantitative genetics theory | Joe Felsenstein and Patrick Carter |
-| 2:00 - 2:30 | [Lecture 1-3: History and Structure of Workshop](/2025/lecture1-3.html) | Joe Felsenstein |
+| 2:00 - 2:30 | [Lecture 1-3: History and Structure of Workshop](/2025/lecture1-3.html) | Joe Felsenstein (virtual) |
 | 2:30 - 3:30 | [Exercise 1-1: Selection & Inheritance Exercise](/2025/exercise1-1.html)| Pat Carter |
 | 3:30 - 5:30 | Participant Slideshows | Participants |
 |  |  |  |
@@ -43,7 +43,7 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 2:30 - 2:45 | Discussion | | 
 | 2:45 - 4:15 | [Exercise 2-2: G-matrix exercise](/2025/exercise2-2.html) | Jacqueline Sztepanacz  |
 | 4:15 - 4:30 | Break | |
-| 4:30 - 5:30 | [Lecture 2-3: Brownian Motion](/2025/lecture2-3.html) | Joe Felsenstein (Virtual) | 
+| 4:30 - 5:30 | [Lecture 2-3: Brownian Motion](/2025/lecture2-3.html) | Joe Felsenstein (virtual) | 
 | 8:00 - 9:00 | MLBS Lecture Series | Laura Alencar | 
 | | | |
 | **Wednesday, June 11th** | | |
