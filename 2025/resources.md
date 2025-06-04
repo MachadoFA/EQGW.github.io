@@ -5,7 +5,7 @@
 
 
 <div align="left">
-<img src="../media/SWVirginiaMtns.jpg" alt="[Southwest Virigina Mountains]">
+<img src="../media/SWVirginiaMtns.jpg" alt="[Southwest Virignia Mountains]">
 </div>
 
 

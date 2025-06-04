@@ -5,7 +5,7 @@
 
 
 <div align="left">
-<img src="../media/SWVirginiaMtns.jpg" alt="[Southwest Virigina Mountains]">
+<img src="../media/SWVirginiaMtns.jpg" alt="[Southwest Virignia Mountains]">
 </div>
 
 # How to get ready for the workshop! #
@@ -17,7 +17,7 @@ discussion, then (but not always) a computer exercise on that topic and then
 finally some more discussion. 
 
 Before the start of the week, you may want to look over the Schedule and 
-do a little [background reading](2025/readinglist.html). Additional reading may
+do a little [background reading](/2025/readinglist.html). Additional reading may
 be associated with specific lectures, and you may want to look at the lectures 
 that interest you the most. The problem that you will now confront is that all the 
 material for the lectures of interest may not be posted and will not be posted 
@@ -39,4 +39,4 @@ tutorials in R, in which you will follow along as the instructor guides you thro
 the tutorial.  You will not need much knowledge to follow along, but you will need 
 to execute commands in R and look at and possibly save graphical output.   Often 
 the instructor will use R Studio and so it will be useful for you to have R Studio 
-installed on your laptop so you can more easily follow along. See the [resources page](2025/resources.html).
+installed on your laptop so you can more easily follow along. See the [resources page](/2025/resources.html).
