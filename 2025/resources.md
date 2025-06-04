@@ -25,6 +25,11 @@ materials or information that you want to preserve.
 The primary way of navigating course materials, including presentation slides and
 lab exercise data and code will be through the schedule on the website. 
 
+* [How to get ready for the workshop!](/2025/howtogetready.html)
+  * [Reading list](/2025/readinglist.html)
+  * [Read about Steve Arnold's book, "Evolutionary Quantitative Genetics", and see animations of figures](https://phenotypicevolution.com/)
+  * [Joe's Theoretical Population Genetics Book](https://felsenst.github.io/pgbook/pgbook.pdf)
+  
 * [Github page for Course Materials](https://github.com/eqgw/eqgw.github.io)
 The entire website and materials will be posted here on github. 
 
@@ -44,7 +49,7 @@ and easily download course materials all at once, we recommend you use git.
   - [Getting started with github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
   - [Using git, github, and Rstudio](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
 
-[Need help using R?](http://sites.uw.edu/fhleqg/2017/05/15/need-help-using-r/)
+* [Need help using R?](http://sites.uw.edu/fhleqg/2017/05/15/need-help-using-r/)
 
 * List of R packages you need to install on your computer (this list is still evolving):
   * MCMCglmm
@@ -61,11 +66,6 @@ and easily download course materials all at once, we recommend you use git.
   * nlme
   * usethis
   * gitcreds
-
-* [Reading list](/2025/readinglist.html)
-[How to get ready for the workshop!](/2025/howtogetready.html)
-
-[Read about Steve Arnold's book, "Evolutionary Quantitative Genetics", and see animations of figures](https://phenotypicevolution.com/)
 
 ## Matrix Algebra Tutorials
 
