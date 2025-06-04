@@ -25,6 +25,10 @@ materials or information that you want to preserve.
 The primary way of navigating course materials, including presentation slides and
 lab exercise data and code will be through the schedule on the website. 
 
+* [Polleverywhere](https://pollev.com/josefuyeda941) 
+We will sometimes use poll everywhere to gather interactive feedback. It will 
+always be at this link, so you can bookmark it. 
+
 * [How to get ready for the workshop!](/2025/howtogetready.html)
   * [Reading list](/2025/readinglist.html)
   * [Read about Steve Arnold's book, "Evolutionary Quantitative Genetics", and see animations of figures](https://phenotypicevolution.com/)
