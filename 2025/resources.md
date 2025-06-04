@@ -62,6 +62,7 @@ and easily download course materials all at once, we recommend you use git.
   * usethis
   * gitcreds
 
+* [Reading list](/2025/readinglist.html)
 [How to get ready for the workshop!](/2025/howtogetready.html)
 
 [Read about Steve Arnold's book, "Evolutionary Quantitative Genetics", and see animations of figures](https://phenotypicevolution.com/)
