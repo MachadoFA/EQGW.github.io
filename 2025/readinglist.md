@@ -7,9 +7,9 @@
 <div align="left">
 <img src="../media/SWVirginiaMtns.jpg" alt="[Southwest Virigina Mountains]">
 </div>
-<P>
 
-## Background reading list ##
+
+# Background reading list #
 
 * Matrix Algebra
   * [Matrix algebra primer](/2025/otherresources/Appendix1.pdf)
