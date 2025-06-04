@@ -67,10 +67,11 @@ List of R packages you need to install on your computer (this list is still evol
 
 [Read about Steve Arnold's forthcoming book, "Evolutionary Quantitative Genetics", and see animations of figures](https://phenotypicevolution.com/)
 
-Matrix Algebra Tutorials
+## Matrix Algebra Tutorials
 
 * Wikipedia page for “Matrix_(mathematics)” which is [here.](https://en.wikipedia.org/wiki/Matrix_(mathematics))
-* Matrix algebra tutorial for Exercise 1.2 which is [here.](http://sites.uw.edu/fhleqg/2019/05/23/2019-exercise-1-2/)
+* Matrix algebra primer is [here](/2025/otherresources/Appendix1.pdf) with a R
+markdown exercise [here](/2025/otherresources/Matrix_algebra_session_rev2.Rmd).
 
 ## For lecturers ##
 

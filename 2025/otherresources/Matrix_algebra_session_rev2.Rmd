@@ -1,0 +1,153 @@
+# Matrix algebra session 
+Authored by Stevan J Arnold, w/additions from Josef Uyeda, Evelyn Metzger, & Patrick Phillips)
+
+Let’s start with the addition of two vectors.  Run the text that follows into 
+the R console a line at a time, hit Enter, and examine the response. The first 
+and third statements define the two vectors Notice that R treats vectors as 1 
+column or 1 row matrices
+
+```{r, collapse=TRUE}
+a=matrix(data=c(2,3),nrow=2,ncol=1)
+a
+e=matrix(data=c(3,4),nrow=2,ncol=1)
+e
+z=a+e
+z
+```
+
+Now let’s try matrix addition.  We begin by defining the two matrices that we will add.
+
+```{r, collapse=TRUE}
+G=matrix(data=c(2,3,3,8),nrow=2,ncol=2)
+G
+E=matrix(data=c(1,2,2,5),nrow=2,ncol=2)
+E
+P=G+E
+P
+```
+
+Next, let’s multiply a matrix by a vector.  The following exercise computes the 
+response to directional selection on two traits, given the G-matrix and a 
+vector of selection gradients.
+```{r, collapse=TRUE}
+G
+beta=matrix(data=c(0.2,0.4),nrow=2,ncol=1)
+beta
+deltazbar=G %*% beta
+deltazbar
+```
+Note that to properly execute matrix multiplication, we have to use $%*%$ rather thatn $*$. This is because $*$ will simply conduct element-wise multiplication, whereas matrix multiplication is rows $\times$ columns. So the above is equivalent to: 
+
+```{r, collapse=TRUE}
+G[1,1] * beta[1,1] + G[1,2] * beta[2,1] #The first index number is the row, the second number is the column
+G[2,1] * beta[1,1] + G[2,2] * beta[2,1]
+cat("\n\n")
+#or equivalently
+sum(G[1,] * beta[,1])
+sum(G[2,] * beta[,1])
+```
+
+Now, the multiplication of two matrices.  Here we depart from the sequence in 
+Arnold’s 1994 Appendix.  We will compute the inverse of a matrix and see if the 
+product of a matrix and its inverse yields the identity matrix. This is the matrix 
+equivalent of multiplying $x \times \frac{1}{x} = 1$. 
+
+```{r, collapse=TRUE}
+Ginverse=solve(G) #G^(-1)
+Ginverse
+G %*% Ginverse #probably won't be exactly the identity matrix due to floating point/numerical issues in computation! 
+```
+
+Another useful matrix operation is its transpose. Here we perform the matrix
+algebra equivalent of $\sqrt{x} * \sqrt{x} = x$
+
+```{r, collapse=TRUE}
+chol(G) #Cholesky decomposition of G
+t(chol(G)) #Transpose of the same matrix
+diag(2) #Identity matrix
+
+G #original G
+t(chol(G))%*% diag(2)%*%(chol(G)) #Reconstitute G
+```
+
+Finally, let’s solve for the eigenvalues and eigenvectors of the G-matrix.  
+What does the output mean?
+
+```{r, collapse=TRUE}
+eigen(G)
+```
+
+To find out what the output means, let’s write some script that will 
+take a sample using a bivariate G matrix, then plot the 95% confidence 
+ellipse for that sample, and the eigenvectors of our G matrix
+
+First, we define our matrix and take a look at it
+```{r, collapse=TRUE}
+G=matrix(data=c(1,0.8,0.8,1),nrow=2, ncol=2,byrow=TRUE)
+G
+
+```
+
+Second, we load two libraries that we’ll need to call
+```{r}
+library(MASS)
+library(car)
+```
+
+Third, we take a sample of 100 data points from the parametric version of our G matrix
+
+```{r, collapse=TRUE}
+data <- mvrnorm(1000, mu = c(0,0), Sigma=G)
+head(data)
+```
+
+Fourth, we plot our data
+```{r}
+
+x.range = c(-3.5,3.5)
+y.range = c(-3.5,3.5) 
+
+```
+
+Fifth, we plot the 95% confidence ellipse in green
+
+```{r, fig.width=5, fig.height=5}
+plot(data, xlim=x.range, ylim=y.range)
+null.bar=c(0,0)
+ellipse(center=null.bar, shape=G, radius=2.5, center.cex=1, lwd=5, col="green", add=TRUE)
+
+# Plot the first eigenvector in blue. This is a game of "connect the dots"
+n=sqrt(eigen(G)$values[1])  * 2.5 #Sqrt of the 2nd eigenvalue (i.e. standard deviation) multiplied by 2.5 to get 99% CI
+delx1 = null.bar[1]  + n*eigen(G)$vectors[1,1]
+delx2 = null.bar[2]  + n*eigen(G)$vectors[2,1]
+delx11 = null.bar[1]  - n*eigen(G)$vectors[1,1]
+delx22 = null.bar[2]  - n*eigen(G)$vectors[2,1]
+x.values=c(null.bar[1] , delx1, delx11)
+y.values=c(null.bar[2] , delx2, delx22)
+lines(x.values, y.values, lwd=3, col="blue")
+
+
+#Finally, let’s  plot the second eigenvector in red
+
+m=sqrt(eigen(G)$values[2]) * 2.5 #Sqrt of the 2nd eigenvalue (i.e. standard deviation) multiplied by 2.5 to get 99% CI
+delx1 = null.bar[1] + m*eigen(G)$vectors[1,2]
+delx2 = null.bar[2] + m*eigen(G)$vectors[2,2]
+delx11 =  null.bar[1] - m*eigen(G)$vectors[1,2]
+delx22 =  null.bar[2]  - m*eigen(G)$vectors[2,2]
+x.values=c(null.bar[1], delx1, delx11)
+y.values=c(null.bar[2] , delx2, delx22)
+lines(x.values, y.values, lwd=3, col="red")
+```
+
+Now try changing the G matrix and see how the eigenvectors are affected
+
+Here is the code you can use plot a 3 dimensional G-matrix in the package `rgl`.
+We are not running it by defaul (`eval=FALSE`) because `rgl` can sometimes be tricky
+to install.
+```{r,eval=FALSE}
+library(rgl)
+G=matrix(data=c(1,0.9,0.8,0.9,1,0.8,0.8,0.8,1),nrow=3, ncol=3,byrow=TRUE)
+G
+data <- mvrnorm(1000, mu = c(0,0,0), Sigma=G)
+plot3d(data)
+```

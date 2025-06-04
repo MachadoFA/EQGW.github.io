@@ -22,10 +22,11 @@ do a little background reading for the lectures that interest you the most.
 The problem that you will now confront is that all the material for the 
 lectures of interest may not be posted and will not be posted until the day of the lecture. 
 No worries!  Go to the Schedule for last year’s version of the course 
-(click Previous years in the top ribbon) and find the most relevant lecture.   There 
+(click Previous years in the top ribbon) and find the most relevant lecture. There 
 will often be very similar to the one in this year’s schedule.  On last year's Schedule 
 you will find powerpoints/pdfs for lectures, videos of lectures and audio recordings, 
-as well as suggested readings.  You can use all of those to prepare for the lectures of special interest to you.
+as well as suggested readings.  You can use all of those to prepare for the lectures 
+of special interest to you.
 
 To prepare for the computer exercises, it is important to realize that the exercises 
 are of two types.  Some of exercises use special websites and software (e.g., see the 
@@ -40,4 +41,4 @@ installed on your laptop so you can more easily follow along.  R Studio is a
 user-friendly front end for R.  Free downloads are available at 
 https://www.rstudio.com/products/rstudio/download2/  &nbsp;&nbsp;  After you have successfully 
 downloaded R Studio you might practice with it by loading R script and running it. 
-You can find instructional videos on YouTube that may help you get acquainted with R Studiio. -SJA
+You can find instructional videos on YouTube that may help you get acquainted with R Studio.
