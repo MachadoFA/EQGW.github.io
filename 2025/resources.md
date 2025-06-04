@@ -14,21 +14,21 @@
 
 ## For workshop participants ##
 
-*[Slack Page](https://eqgw2025mlbs.slack.com)
+* [Slack Page](https://eqgw2025mlbs.slack.com)
 Slack is a free messaging platform we will use in the course to communicate with
 one another. It is a great way to quickly coordinate, ask questions, and share 
 materials. The Slack page will continue after the course. Note that we are using
 the free version, so messages disappear after 3 months. Please download any 
 materials or information that you want to preserve. 
 
-*[Website](https://eqgw.github.io)
+* [Website](https://eqgw.github.io)
 The primary way of navigating course materials, including presentation slides and
 lab exercise data and code will be through the schedule on the website. 
 
-*[Github page for Course Materials](https://github.com/eqgw/eqgw.github.io)
+* [Github page for Course Materials](https://github.com/eqgw/eqgw.github.io)
 The entire website and materials will be posted here on github. 
 
-*[Installing and using R & Rstudio](https://posit.co/download/rstudio-desktop/)
+* [Installing and using R & Rstudio](https://posit.co/download/rstudio-desktop/)
 R is a free statistical computing program that will be used throughout the course. 
 Rstudio Dekstop is an integrated development environment for R that has features
 that will be useful. If you are new to R, we recommend its use in the course. 
@@ -37,7 +37,7 @@ Instructions for the installation of R and Rstudio can be found at at the Rstudi
 want to install the most up-to-date version so that new package installations are 
 easier.
 
-*Installing and using git
+* Installing and using git
 This is optional, but if you want to be able to interact with the github repository
 and easily download course materials all at once, we recommend you use git. 
 - [Installing git guide](https://github.com/git-guides/install-git)
@@ -65,12 +65,11 @@ List of R packages you need to install on your computer (this list is still evol
 
 [How to get ready for the workshop!](/2025/howtogetready.html)
 
-[Read about Steve Arnold's forthcoming book, "Evolutionary Quantitative Genetics", and see animations of figures](https://phenotypicevolution.com/)
+[Read about Steve Arnold's book, "Evolutionary Quantitative Genetics", and see animations of figures](https://phenotypicevolution.com/)
 
 ## Matrix Algebra Tutorials
 
-* Wikipedia page for “Matrix_(mathematics)” which is [here.](https://en.wikipedia.org/wiki/Matrix_(mathematics))
-* Matrix algebra primer is [here](/2025/otherresources/Appendix1.pdf) with a R
+* Matrix algebra primer is [here](/2025/otherresources/Appendix1.pdf), or [wikipedia](https://en.wikipedia.org/wiki/Matrix_(mathematics)), with a R
 markdown exercise [here](/2025/otherresources/Matrix_algebra_session_rev2.Rmd).
 
 ## For lecturers ##
