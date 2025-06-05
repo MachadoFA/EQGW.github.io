@@ -41,20 +41,20 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 12:00 - 1:30 | meal break | all |
 | 1:30 - 2:30 | [Lecture 2-2: G-matrices & selection](/2025/lecture2-2.html) | Jacqueline Sztepanacz | 
 | 2:30 - 2:45 | Discussion | | 
-| 2:45 - 4:15 | [Exercise 2-2: G-matrix exercise](/2025/exercise2-2.html) | Jacqueline Sztepanacz  |
+| 2:45 - 4:15 | [Lecture 2-3:  EQG & Genomics](/2025/lecture2-3.html) | Jacqueline Sztepanacz  |
 | 4:15 - 4:30 | Break | |
-| 4:30 - 5:30 | [Lecture 2-3: Brownian Motion in populations and on trees](/2025/lecture2-3.html) | Joe Felsenstein (virtual) | 
+| 4:30 - 5:30 | [Lecture 2-4: Brownian Motion in populations and on trees](/2025/lecture2-4.html) | Joe Felsenstein (virtual) | 
 | 8:00 - 9:00 | MLBS Lecture Series | Laura Alencar | 
 | | | |
 | **Wednesday, June 11th** | | |
-| 9:00 - 10:00 | [Lecture 3-1:  EQG & Genomics](/2025/lecture3-1.html) | Jacqueline Sztepanacz |
-| 10:00 - 11:00 | [Lecture 3-2: Evolving G-matrices](/2025/lecture3-2.html) | Joel McGlothlin | 
-| 11:15 - 12:00 | [Exercise 3-1: G-matrices](/2025/exercise3-1.html) | Joel McGlothlin |
+| 9:00 - 10:00 | [Exercise 3-1: G-matrix exercise](/2025/exercise3-1.html) | Jacqueline Sztepanacz |
+| 10:00 - 11:00 | [Lecture 3-1: Evolving G-matrices](/2025/lecture3-1.html) | Joel McGlothlin | 
+| 11:15 - 12:00 | [Exercise 3-2: G-matrices](/2025/exercise3-2.html) | Joel McGlothlin |
 | 12:00 - 1:30 | meal break | all |
-| 1:30 - 2:30 | [Lecture 3-3: Micro2Macro-EQG to Comparative methods](/2025/exercise3-1.html) | Joel McGlothlin & Josef Uyeda | 
-| 2:30 - 3:15 | [Exercise 3-2: EQG on trees](/2025/exercise3-2.html) | Josef Uyeda |
+| 1:30 - 2:30 | [Lecture 3-2: Micro2Macro-EQG to Comparative methods](/2025/lecture3-2.html) | Joel McGlothlin & Josef Uyeda | 
+| 2:30 - 3:15 | [Exercise 3-3: EQG on trees](/2025/exercise3-3.html) | Josef Uyeda |
 | 3:15 - 3:30 | Break | | 
-| 3:30 - 4:30 | [Lecture 3-4: The Paradox of Predictability](/2025/lecture3-4.html) | Fabio Machado |
+| 3:30 - 4:30 | [Lecture 3-3: The Paradox of Predictability](/2025/lecture3-3.html) | Fabio Machado |
 | 4:30 - 5:30 | Discussion | Team |
 | 5:30 - 6:30 | Dinner | all |
 | 6:30 - 8:00 | Breakouts | Joe Felsenstein & Stevan J Arnold | 
