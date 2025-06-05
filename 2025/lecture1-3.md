@@ -5,16 +5,16 @@
 
 
 <div align="left">
-<img src="../../media/SWVirginiaMtns.jpg" alt="[Southwest Virginia Mountains]">
+<img src="../media/SWVirginiaMtns.jpg" alt="[Southwest Virginia Mountains]">
 </div>
 
 
-<table><tr><td>&larr; <a href="/2025/lecture1.1/lecture1-1.html">Previous</a></td><td width="772">&nbsp;</td><td> <a href="/2025/exercise1-3/lecture1-3.html">Next &rarr;</a></td></tr></table>
+<table><tr><td>&larr; <a href="/2025/lecture1-2.html">Previous</a></td><td width="772">&nbsp;</td><td> <a href="/2025/exercise1-1.html">Next &rarr;</a></td></tr></table>
 [//]: # (This is a comment. Edit the Next and Previous links above to go the right links)  
 
-## Lecture 1-2: Evolutionary Quantitative Genetics Title ##
+## Lecture 1-3: Evolutionary Quantitative Genetics Title ##
 
-### Instructor: Pat Carter ###
+### Instructor: Joe Felsenstein ###
   
 Description of your lecture topic. Any instructions.
   
