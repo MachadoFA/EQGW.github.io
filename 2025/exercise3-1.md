@@ -14,7 +14,7 @@
 
 ## Exercise 3-1: Estimating G-matrices in Drosophila CHCs ##
 
-### Instructor: Jaqueline Sztepanacz ###
+### Instructor: Jacqueline Sztepanacz ###
   
 In this activity, we will be analysing data from an experiment in Drosophila 
 serrata conducted by Jacqueline. She set up a paternal half-sibling breeding 
