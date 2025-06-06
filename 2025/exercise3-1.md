@@ -32,15 +32,15 @@ covariance between them (ie. the G matrix), and to estimate direction and
 non-linear selection acting on these traits.
 
 #### Script: ####
-[Activity-Code.Rmd](/2025/exercise3-1/Activity-Code.Rmd)
-[html output](/2025/exercise3-1/Activity-Code.html)
+* [Activity-Code.Rmd](/2025/exercise3-1/Activity-Code.Rmd)
+* [html output](/2025/exercise3-1/Activity-Code.html)
   
 #### Data: ####
-[Data.csv](/2025/exercise3-1/Data.csv)
-[fullped.csv](/2025/exercise3-1/fullped.csv)
+* [Data.csv](/2025/exercise3-1/Data.csv)
+* [fullped.csv](/2025/exercise3-1/fullped.csv)
 
 #### Background readings:  ####
-[Sztepanacz & Rundle, 2012. Reduced genetic variance among high fitness individuals: Inferring stabilizing selection on male sexual displays in Drosophila serrata](/papers/SztepanaczRundle2012ReducedGeneticVarianceAmongHighFitnessIndividuals.pdf)
+* [Sztepanacz & Rundle, 2012. Reduced genetic variance among high fitness individuals: Inferring stabilizing selection on male sexual displays in Drosophila serrata](/papers/SztepanaczRundle2012ReducedGeneticVarianceAmongHighFitnessIndividuals.pdf)
 
 
   
