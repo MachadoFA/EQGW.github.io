@@ -16,7 +16,7 @@
 
 ### Instructor: Jacqueline Sztepanacz ###
   
-This is the first part of a two-part lecture. We will start by talking about genetic covariance matrices, and in the second lecture we will talk about empirical methods to estimate selection. In the activity associated with these lectures you will apply what you've learned to estimate G, selection, and predict responses to selection.  
+This is the first part of a two-part lecture. We will start by talking about genetic covariance matrices, and in the second lecture we will talk about empirical methods to estimate selection. In the activity associated with these lectures you will apply what you've learned to estimate **G**, selection, and predict responses to selection.  
   
 #### Lecture projections: ####
   
