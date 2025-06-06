@@ -53,7 +53,10 @@ and easily download course materials all at once, we recommend you use git.
   - [Getting started with github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
   - [Using git, github, and Rstudio](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
 
-* [Need help using R?](http://sites.uw.edu/fhleqg/2017/05/15/need-help-using-r/)
+* Need help using R?
+  - [FHL EQGW site](http://sites.uw.edu/fhleqg/2017/05/15/need-help-using-r/)
+  - [U. Toronto EEB R manual](https://rman.eeb.utoronto.ca/)
+  
 
 * List of R packages you need to install on your computer (this list is still evolving):
   * MCMCglmm
@@ -64,10 +67,17 @@ and easily download course materials all at once, we recommend you use git.
   * car
   * OUwie
   * bayou
+  * l1ou
+  * BAMMtools
   * phytools
   * corhmm
   * geiger
   * nlme
+  * dplyr
+  * stringr
+  * evolvability
+  * pedtricks
+  * celltrackR
   * usethis
   * gitcreds
 
