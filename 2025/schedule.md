@@ -41,7 +41,8 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 12:00 - 1:30 | meal break | all |
 | 1:30 - 2:30 | [Lecture 2-2: G-matrices & selection](/2025/lecture2-2.html) | Jacqueline Sztepanacz | 
 | 2:30 - 2:45 | Discussion | | 
-| 2:45 - 4:15 | [Lecture 2-3:  EQG & Genomics](/2025/lecture2-3.html) | Jacqueline Sztepanacz  |
+| 2:45 - 3:45 | [Lecture 2-3:  G-matrices & selection](/2025/lecture2-3.html) | Jacqueline Sztepanacz  |
+| 3:45 - 4:15 | [Exercise 3-1: G-matrix exercise](/2025/exercise3-1.html) | Jacqueline Sztepanacz |
 | 4:15 - 4:30 | Break | |
 | 4:30 - 5:30 | [Lecture 2-4: Brownian Motion in populations and on trees](/2025/lecture2-4.html) | Joe Felsenstein (virtual) | 
 | 8:00 - 9:00 | MLBS Lecture Series | Laura Alencar | 
