@@ -14,7 +14,7 @@
 
 ## Lecture 1-3: Evolutionary Quantitative Genetics ##
 
-### Instructor: Joe Felsenstein ###
+### Instructor: Patrick Carter ###
   
 Description of your lecture topic. Any instructions.
   
