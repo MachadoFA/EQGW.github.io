@@ -14,7 +14,7 @@
 
   
 
-## Lecture 3-3: Brownian motion within and between species ##
+## Lecture 2-4: Brownian motion in populations and on trees ##
 
 ### Joe Felsenstein ###
   
