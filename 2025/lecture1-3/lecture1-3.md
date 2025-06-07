@@ -12,7 +12,7 @@
 <table><tr><td>&larr; <a href="/2025/lecture1-2.html">Previous</a></td><td width="772">&nbsp;</td><td> <a href="/2025/exercise1-1.html">Next &rarr;</a></td></tr></table>
 [//]: # (This is a comment. Edit the Next and Previous links above to go the right links)  
 
-## Lecture 1-3: Evolutionary Quantitative Genetics Title ##
+## Lecture 1-3: Evolutionary Quantitative Genetics ##
 
 ### Instructor: Joe Felsenstein ###
   
