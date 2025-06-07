@@ -20,7 +20,7 @@
   
 #### Lecture projection ####
 
-PDF of projection: [Brownian motion in populations and on trees](lecture2-3.pdf)
+PDF of projection: [Brownian motion in populations and on trees](brownian.pdf)
 
 <!-- #### Video #### -->
 
