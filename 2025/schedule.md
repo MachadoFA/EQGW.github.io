@@ -25,11 +25,11 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 9:00 - 10:00 | [Lecture 1-1: Introduction](/2025/lecture1-1.html) | Josef Uyeda |
 | 10:00 - 10:30 | Introductions of participants | Participants |
 | 10:30 - 10:45 | Break |  | 
-| 10:45 - 11:45 | [Lecture 1-2: Quantitative Genetics Intro](/2025/lecture1-2.html) | Pat Carter |
+| 10:45 - 11:45 | [Lecture 1-2: Quantitative Genetics Intro](/2025/lecture1-2/lecture1-2.html) | Pat Carter |
 | 11:45 - 12:00 | Discussion | Pat Carter |
 | 12:00 - 1:30 | Lunch | |
 | 1:30 - 2:00 | More discussion of quantitative genetics theory | Joe Felsenstein and Patrick Carter |
-| 2:00 - 2:30 | [Lecture 1-3: History and Structure of Workshop](/2025/lecture1-3.html) | Joe Felsenstein (virtual) |
+| 2:00 - 2:30 | [Lecture 1-3: History and Structure of Workshop](/2025/lecture1-3/lecture1-3.html) | Joe Felsenstein (virtual) |
 | 2:30 - 3:30 | [Exercise 1-1: Selection & Inheritance Exercise](/2025/exercise1-1.html)| Pat Carter |
 | 3:30 - 5:30 | Participant Slideshows | Participants |
 |  |  |  |
@@ -44,7 +44,7 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 2:45 - 3:45 | [Lecture 2-3:  G-matrices & selection](/2025/lecture2-3.html) | Jacqueline Sztepanacz  |
 | 3:45 - 4:15 | [Exercise 3-1: G-matrix exercise](/2025/exercise3-1.html) | Jacqueline Sztepanacz |
 | 4:15 - 4:30 | Break | |
-| 4:30 - 5:30 | [Lecture 2-4: Brownian Motion in populations and on trees](/2025/lecture2-4.html) | Joe Felsenstein (virtual) | 
+| 4:30 - 5:30 | [Lecture 2-4: Brownian Motion in populations and on trees](/2025/lecture2-4/lecture2-4.html) | Joe Felsenstein (virtual) | 
 | 8:00 - 9:00 | MLBS Lecture Series | Laura Alencar | 
 | | | |
 | **Wednesday, June 11th** | | |
