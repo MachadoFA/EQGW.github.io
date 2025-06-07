@@ -10,7 +10,7 @@
 <img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virginia mountains]">
 </div>
 
-{! <table><tr><td><a href="lecture3-2.html">&larr; Previous</a></td><td width="772">&nbsp;</td><td> <a href="exercise3-1.html">Next &rarr;</a></td></tr></table> }
+<!-- <table><tr><td><a href="lecture3-2.html">&larr; Previous</a></td><td width="772">&nbsp;</td><td> <a href="exercise3-1.html">Next &rarr;</a></td></tr></table> -->
 
   
 
@@ -20,9 +20,9 @@
   
 #### Lecture projection ####
 
-PDF of projection: [Brownian motion within and between species](lecture2-3.pdf)
+PDF of projection: [Brownian motion in populations and on trees](lecture2-3.pdf)
 
-{! #### Video #### }
+<!-- #### Video #### -->
 
-{! [EQGW2022lecture3-3.mp4](https://vimeo.com/732598604) }
+<!-- [EQGW2025lecture2-4.mp4](https://vimeo.com/732598604) -->
 
