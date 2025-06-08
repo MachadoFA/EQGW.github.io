@@ -5,7 +5,7 @@
 
 
 <div align="left">
-<img src="../media/FHLimage2018b.jpg" alt="[Friday Harbor Laboratories waterfront]">
+<img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virginia Mountains]">
 </div>
 
 
