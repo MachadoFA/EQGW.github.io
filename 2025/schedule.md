@@ -28,7 +28,7 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 10:45 - 11:45 | [Lecture 1-2: Quantitative Genetics Intro](/2025/lecture1-2/lecture1-2.html) | Pat Carter |
 | 11:45 - 12:00 | Discussion | Pat Carter |
 | 12:00 - 1:30 | Lunch | |
-| 1:30 - 2:00 | More discussion of quantitative genetics theory | Joe Felsenstein and Patrick Carter |
+| 1:30 - 2:00 | More discussion of quantitative genetics theory | Joe Felsenstein and Pat Carter |
 | 2:00 - 2:30 | [Lecture 1-3: History and Structure of Workshop](/2025/lecture1-3/lecture1-3.html) | Joe Felsenstein (virtual) |
 | 2:30 - 3:30 | [Exercise 1-1: Selection & Inheritance Exercise](/2025/exercise1-1/exercise1-1.html)| Pat Carter |
 | 3:30 - 5:30 | Participant Slideshows | Participants |
