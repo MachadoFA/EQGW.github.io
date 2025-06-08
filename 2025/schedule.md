@@ -25,16 +25,16 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 9:00 - 10:00 | [Lecture 1-1: Introduction](/2025/lecture1-1/lecture1-1.html) | Josef Uyeda |
 | 10:00 - 10:30 | Introductions of participants | Participants |
 | 10:30 - 10:45 | Break |  | 
-| 10:45 - 11:45 | [Lecture 1-2: Quantitative Genetics Intro](/2025/lecture1-2/lecture1-2/lecture1-2.html) | Pat Carter |
+| 10:45 - 11:45 | [Lecture 1-2: Quantitative Genetics Intro](/2025/lecture1-2/lecture1-2.html) | Pat Carter |
 | 11:45 - 12:00 | Discussion | Pat Carter |
 | 12:00 - 1:30 | Lunch | |
 | 1:30 - 2:00 | More discussion of quantitative genetics theory | Joe Felsenstein and Patrick Carter |
 | 2:00 - 2:30 | [Lecture 1-3: History and Structure of Workshop](/2025/lecture1-3/lecture1-3.html) | Joe Felsenstein (virtual) |
-| 2:30 - 3:30 | [Exercise 1-1: Selection & Inheritance Exercise](/2025/exercise/exercise1-1.html)| Pat Carter |
+| 2:30 - 3:30 | [Exercise 1-1: Selection & Inheritance Exercise](/2025/exercise1-1/exercise1-1.html)| Pat Carter |
 | 3:30 - 5:30 | Participant Slideshows | Participants |
 |  |  |  |
 | **Tuesday, June 10th** | | |
-| 9:00 - 10:00 | [Lecture 2-1:  Mixed model approaches to estimating inheritance](/2025/lecture2-1/lecture2-1.html) | Patrick Carter | 
+| 9:00 - 10:00 | [Lecture 2-1:  Mixed model approaches to estimating inheritance](/2025/lecture2-1/lecture2-1.html) | Pat Carter | 
 | 10:00 - 10:15 | Discussion | participants |
 | 10:15 - 10:30 | Break | |
 | 10:30 - 12:00 | [Exercise 2-1: MCMCglmm + (hints at multivariate world)](/2025/exercise2-1/exercise2-1.html) | Pat Carter |
