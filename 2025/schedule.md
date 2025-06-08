@@ -22,27 +22,27 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 |---------|-------------|------------------|
 | | | |
 | **Monday, June 9th**  |   |    |   
-| 9:00 - 10:00 | [Lecture 1-1: Introduction](/2025/lecture1-1.html) | Josef Uyeda |
+| 9:00 - 10:00 | [Lecture 1-1: Introduction](/2025/lecture1-1/lecture1-1.html) | Josef Uyeda |
 | 10:00 - 10:30 | Introductions of participants | Participants |
 | 10:30 - 10:45 | Break |  | 
-| 10:45 - 11:45 | [Lecture 1-2: Quantitative Genetics Intro](/2025/lecture1-2/lecture1-2.html) | Pat Carter |
+| 10:45 - 11:45 | [Lecture 1-2: Quantitative Genetics Intro](/2025/lecture1-2/lecture1-2/lecture1-2.html) | Pat Carter |
 | 11:45 - 12:00 | Discussion | Pat Carter |
 | 12:00 - 1:30 | Lunch | |
 | 1:30 - 2:00 | More discussion of quantitative genetics theory | Joe Felsenstein and Patrick Carter |
 | 2:00 - 2:30 | [Lecture 1-3: History and Structure of Workshop](/2025/lecture1-3/lecture1-3.html) | Joe Felsenstein (virtual) |
-| 2:30 - 3:30 | [Exercise 1-1: Selection & Inheritance Exercise](/2025/exercise1-1.html)| Pat Carter |
+| 2:30 - 3:30 | [Exercise 1-1: Selection & Inheritance Exercise](/2025/exercise/exercise1-1.html)| Pat Carter |
 | 3:30 - 5:30 | Participant Slideshows | Participants |
 |  |  |  |
 | **Tuesday, June 10th** | | |
-| 9:00 - 10:00 | [Lecture 2-1:  Mixed model approaches to estimating inheritance](/2025/lecture2-1.html) | Patrick Carter | 
+| 9:00 - 10:00 | [Lecture 2-1:  Mixed model approaches to estimating inheritance](/2025/lecture2-1/lecture2-1.html) | Patrick Carter | 
 | 10:00 - 10:15 | Discussion | participants |
 | 10:15 - 10:30 | Break | |
-| 10:30 - 12:00 | [Exercise 2-1: MCMCglmm + (hints at multivariate world)](/2025/exercise2-1.html) | Pat Carter |
+| 10:30 - 12:00 | [Exercise 2-1: MCMCglmm + (hints at multivariate world)](/2025/exercise2-1/exercise2-1.html) | Pat Carter |
 | 12:00 - 1:30 | meal break | all |
-| 1:30 - 2:30 | [Lecture 2-2: G-matrices & selection](/2025/lecture2-2.html) | Jacqueline Sztepanacz | 
+| 1:30 - 2:30 | [Lecture 2-2: G-matrices & selection](/2025/lecture2-2/lecture2-2.html) | Jacqueline Sztepanacz | 
 | 2:30 - 2:45 | Discussion | | 
-| 2:45 - 3:45 | [Lecture 2-3:  G-matrices & selection](/2025/lecture2-3.html) | Jacqueline Sztepanacz  |
-| 3:45 - 4:15 | [Exercise 3-1: G-matrix exercise](/2025/exercise3-1.html) | Jacqueline Sztepanacz |
+| 2:45 - 3:45 | [Lecture 2-3:  G-matrices & selection](/2025/lecture2-3/lecture2-3.html) | Jacqueline Sztepanacz  |
+| 3:45 - 4:15 | [Exercise 3-1: G-matrix exercise](/2025/exercise2-2/exercise2-2.html) | Jacqueline Sztepanacz |
 | 4:15 - 4:30 | Break | |
 | 4:30 - 5:30 | [Lecture 2-4: Brownian Motion in populations and on trees](/2025/lecture2-4/lecture2-4.html) | Joe Felsenstein (virtual) | 
 | 8:00 - 9:00 | MLBS Lecture Series | Laura Alencar | 
