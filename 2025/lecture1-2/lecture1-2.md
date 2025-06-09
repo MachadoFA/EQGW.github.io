@@ -10,7 +10,7 @@
 
 
 <table><tr><td>&larr; <a href="/2025/lecture1-1/lecture1-1.html">Previous</a></td><td width="772">&nbsp;</td><td> <a href="/2025/lecture1-3/lecture1-3.html">Next &rarr;</a></td></tr></table>
-[//]: # (This is a comment. Edit the Next and Previous links above to go the right links)  
+ 
 
 ## Lecture 1-2: Intro to Quant Gen ##
 
