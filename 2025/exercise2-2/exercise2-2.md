@@ -32,14 +32,14 @@ covariance between them (ie. the G matrix), and to estimate direction and
 non-linear selection acting on these traits.
 
 #### Script: ####
-* [Activity-Code.Rmd](/2025/exercise3-1/Activity-Code.Rmd)
-* [html output](/2025/exercise3-1/Activity-Code.html)
+* [Activity-Code.Rmd](/2025/exercise2-2/Activity-Code.Rmd)
+* [html output](/2025/exercise2-2/Activity-Code.html)
   
 #### Data: ####
-* [Data.csv](/2025/exercise3-1/Data.csv)
-* [fullped.csv](/2025/exercise3-1/fullped.csv)
-* [model2.Rdata](/2025/exercise3-1/model2.Rdata)
-* [model_null.Rdata](/2025/exercise3-1/model_null.Rdata)
+* [Data.csv](/2025/exercise2-2/Data.csv)
+* [fullped.csv](/2025/exercise2-2/fullped.csv)
+* [model2.Rdata](/2025/exercise2-2/model2.Rdata)
+* [model_null.Rdata](/2025/exercise2-2/model_null.Rdata)
   
 
 #### Background readings:  ####
