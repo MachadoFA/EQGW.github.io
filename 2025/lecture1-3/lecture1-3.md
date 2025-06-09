@@ -5,7 +5,7 @@
 
 
 <div align="left">
-<img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virginia Mountains]">
+<img src="/media/FHLimage2018b.jpg" alt="[Friday Harbor Laboratories waterfront, 2018]">
 </div>
 
 
@@ -17,8 +17,7 @@
   
 Description of your lecture topic. Any instructions.
   
-#### Lecture projections: ####
+#### Lecture projection: ####
   
-##### PDF: (pending)  ######
+PDF: [Here](history.pdf)
 
-  
