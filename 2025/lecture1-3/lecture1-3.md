@@ -21,3 +21,6 @@ Description of your lecture topic. Any instructions.
   
 PDF: [Here](history.pdf)
 
+#### Miscellaneous ####
+
+[2017 lecture on basics of quantitative genetics](heritability.pdf)
