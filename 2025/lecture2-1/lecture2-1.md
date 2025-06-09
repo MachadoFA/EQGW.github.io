@@ -5,12 +5,12 @@
 
 
 <div align="left">
-<img src="../media/SWVirginiaMtns.jpg" alt="[Southwest Virginia Mountains]">
+<img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virginia Mountains]">
 </div>
 
 
-<table><tr><td>&larr; <a href="/2025/exercise1-1.html">Previous</a></td><td width="772">&nbsp;</td><td> <a href="/2025/exercise2-1.html">Next &rarr;</a></td></tr></table>
-[//]: # (This is a comment. Edit the Next and Previous links above to go the right links)  
+<table><tr><td>&larr; <a href="/2025/exercise1-1/exercise1-1.html">Previous</a></td><td width="772">&nbsp;</td><td> <a href="/2025/exercise2-1/exercise2-1.html">Next &rarr;</a></td></tr></table>
+
 
 ## Lecture 2-1: Mixed model approaches to estimating inheritance ##
 
