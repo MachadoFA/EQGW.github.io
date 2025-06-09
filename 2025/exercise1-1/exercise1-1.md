@@ -33,7 +33,7 @@ were originally presented.
 #### Data ####
 
 * [Dataset](/2025/exercise1-1/R_inland_snake_data.txt)
-Save these data onto your computer. The data are the values of 6 traits in a 
+* Save these data onto your computer. The data are the values of 6 traits in a 
 sample of mothers and their daughters from one population of a garter snake, 
 Thamnophis elegans. The first line is the header which lists the names of the 
 variables (8 columns):
