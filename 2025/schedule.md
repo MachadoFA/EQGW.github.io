@@ -42,13 +42,13 @@ All times are Eastern Daylight Time (EDT).  Note that Pacific Daylight Time (PDT
 | 1:30 - 2:30 | [Lecture 2-2: G-matrices & selection](/2025/lecture2-2/lecture2-2.html) | Jacqueline Sztepanacz | 
 | 2:30 - 2:45 | Discussion | | 
 | 2:45 - 3:45 | [Lecture 2-3:  G-matrices & selection](/2025/lecture2-3/lecture2-3.html) | Jacqueline Sztepanacz  |
-| 3:45 - 4:15 | [Exercise 3-1: G-matrix exercise](/2025/exercise2-2/exercise2-2.html) | Jacqueline Sztepanacz |
+| 3:45 - 4:15 | [Exercise 2-2: G-matrix exercise](/2025/exercise2-2/exercise2-2.html) | Jacqueline Sztepanacz |
 | 4:15 - 4:30 | Break | |
 | 4:30 - 5:30 | [Lecture 2-4: Brownian Motion in populations and on trees](/2025/lecture2-4/lecture2-4.html) | Joe Felsenstein (virtual) | 
 | 8:00 - 9:00 | MLBS Lecture Series | Laura Alencar | 
 | | | |
 | **Wednesday, June 11th** | | |
-| 9:00 - 10:00 | [Exercise 3-1: G-matrix exercise](/2025/exercise3-1/exercise3-1.html) | Jacqueline Sztepanacz |
+| 9:00 - 10:00 | [Exercise 2-2 (continued): G-matrix exercise](/2025/exercise2-2/exercise2-2.html) | Jacqueline Sztepanacz |
 | 10:00 - 11:00 | [Lecture 3-1: Evolving G-matrices](/2025/lecture3-1/lecture3-1.html) | Joel McGlothlin | 
 | 11:15 - 12:00 | [Exercise 3-2: G-matrices](/2025/exercise3-2/exercise3-2.html) | Joel McGlothlin |
 | 12:00 - 1:30 | meal break | all |
