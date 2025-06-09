@@ -38,6 +38,9 @@ non-linear selection acting on these traits.
 #### Data: ####
 * [Data.csv](/2025/exercise3-1/Data.csv)
 * [fullped.csv](/2025/exercise3-1/fullped.csv)
+* [model2.Rdata](/2025/exercise3-1/model2.Rdata)
+* [model_null.Rdata](/2025/exercise3-1/model_null.Rdata)
+  
 
 #### Background readings:  ####
 * [Sztepanacz & Rundle, 2012. Reduced genetic variance among high fitness individuals: Inferring stabilizing selection on male sexual displays in Drosophila serrata](/papers/SztepanaczRundle2012ReducedGeneticVarianceAmongHighFitnessIndividuals.pdf)
