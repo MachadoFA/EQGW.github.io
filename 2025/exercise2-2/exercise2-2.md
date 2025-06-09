@@ -9,7 +9,7 @@
 </div>
 
 
-<table><tr><td>&larr; <a href="/2025/lecture2-4/lecture2-4.html">Previous</a></td><td width="772">&nbsp;</td><td> <a href="/2025/lecture3-1/lecture3-1.html">Next &rarr;</a></td></tr></table>
+<table><tr><td>&larr; <a href="/2025/lecture2-3/lecture2-3.html">Previous</a></td><td width="772">&nbsp;</td><td> <a href="/2025/lecture2-4/lecture2-4.html">Next &rarr;</a></td></tr></table>
 
 
 ## Exercise 2-2: Estimating G-matrices in Drosophila CHCs ##
