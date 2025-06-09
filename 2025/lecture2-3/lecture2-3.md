@@ -17,7 +17,7 @@
 Part II
   
 #### Lecture projections: ####
-* [Lecture 2](2025/lecture2-3/EQGW_Lecture_2.pdf)  
+* [Lecture 2](/2025/lecture2-3/EQGW_Lecture_2.pdf)  
 
 #### Background readings:  ####
 
