@@ -22,7 +22,10 @@ introduce the organizers and the lecturers.
 
 #### Lecture Slides ####
 
-#### Other materials ####
+* [Lecture slides pptx](/2025/lecture1-1/EQGW2025Introduction.pptx)
+* [Lecture slides pptx](/2025/lecture1-1/EQGW2025Introduction.pdf)
+
+
 
 
 
