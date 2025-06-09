@@ -21,7 +21,7 @@ This is the first part of a two-part lecture. We will start by talking about gen
 * [Lecture 1](/2025/lecture2-2/EQGW_Lecture_1.pdf)
   
 #### Background readings:  ####
-* [Walsh, B. and Blows, M.W., 2009. Abundant genetic variation+ strong selection= multivariate genetic constraints: a geometric view of adaptation. Annual review of ecology, evolution, and systematics, 40(1), pp.41-59]
+* [Walsh, B. and Blows, M.W., 2009. Abundant genetic variation+ strong selection= multivariate genetic constraints: a geometric view of adaptation. Annual review of ecology, evolution, and systematics, 40(1), pp.41-59](2025/lecture2-2/annurev.ecolsys.110308.120232.pdf)
 
 #### Media/Data/Etc ####
 
