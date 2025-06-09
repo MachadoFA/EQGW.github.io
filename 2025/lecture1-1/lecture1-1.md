@@ -8,7 +8,7 @@
 <img src="/media/SWVirginiaMtns.jpg" alt="[Southwest Virignia Mountains]">
 </div>
 
-<table><tr><td width="110"></td><td width="772">&nbsp;</td><td> <a href="2025/lecture1-2/lecture1-2.html">Next &rarr;</a></td></tr></table>
+<table><tr><td width="110"></td><td width="772">&nbsp;</td><td> <a href="/2025/lecture1-2/lecture1-2.html">Next &rarr;</a></td></tr></table>
   
 
 ## Lecture 1-1: Introduction ##
