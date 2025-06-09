@@ -23,7 +23,7 @@ This is the first part of a two-part lecture. We will start by talking about gen
 #### Background readings:  ####
 * [Walsh, B. and Blows, M.W., 2009. Abundant genetic variation+ strong selection= multivariate genetic constraints: a geometric view of adaptation. Annual review of ecology, evolution, and systematics, 40(1), pp.41-59](2025/lecture2-2/annurev.ecolsys.110308.120232.pdf)
 
-* [Brodie III, E.D., 1992. Correlational selection for color pattern and antipredator behavior in the garter snake Thamnophis ordinoides. Evolution, 46(5), pp.1284-1298](2025/lecture2-2/Evolution - October 1992 - Brodie - CORRELATIONAL SELECTION FOR COLOR PATTERN AND ANTIPREDATOR BEHAVIOR IN THE GARTER SNAKE.pdf)
+* [Brodie III, E.D., 1992. Correlational selection for color pattern and antipredator behavior in the garter snake Thamnophis ordinoides. Evolution, 46(5), pp.1284-1298](2025/lecture2-2/Evolution_October_1992_Brodie.pdf)
 
   
 #### Media/Data/Etc ####
