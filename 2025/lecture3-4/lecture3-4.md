@@ -22,6 +22,7 @@ An orthodox understanding of evolutionary theory strongly suggests that intraspe
 -   [ppt version](TheParadoxOfPredictability.pptx)
 -   [pdf version](TheParadoxOfPredictability.pdf)
 
+
 Relevant Papers:
 \* [Houle et al. 2017](hansen2017.pdf)
 \* [Holstad et al. 2024](holstad2024.pdf)
