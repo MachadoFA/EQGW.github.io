@@ -19,8 +19,8 @@ An orthodox understanding of evolutionary theory strongly suggests that intraspe
 
 #### Lecture projection:
 
--   [ppt version](The paradox of predictability.pptx)
--   [pdf version](The paradox of predictability.pdf)
+-   [ppt version](/2025/lecture3-4/The paradox of predictability.pptx)
+-   [pdf version](/2025/lecture3-4/The paradox of predictability.pdf)
 
 Relevant Papers:
 \* [Houle et al. 2017](hansen2017.pdf)
