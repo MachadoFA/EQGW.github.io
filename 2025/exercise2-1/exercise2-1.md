@@ -15,14 +15,17 @@
 
 ### Instructor: Pat Carter ###
   
-Description of your lecture topic. Any instructions.
-  
-#### Lecture projections: ####
-  
-
-#### Background readings:  ####
+#### R script ####
+* [Download Code here](/2025/exercise2-1/CarterEQCMCMC2025.R)
+* [Visualizing prior code](/2025/exercise2-1/priorVisualizing_inverseGamm_several_nu.R)
 
 
-#### Media/Data/Etc ####
+#### Data ####
+* [Toy4.rat](/2025/exercise2-1/Toy4.rat)
+* [Toy4ped.rat](/2025/exercise2-1/Toy4ped.rat)
+* [Toy4SimZ.dat](/2025/exercise2-1/Toy4SimZ.dat)
+* [model101.obj](/2025/exercise2-1/model101.obj)
+* [model1101.obj](/2025/exercise2-1/model1101.obj)
+* [model1102.obj](/2025/exercise2-1/model1102.obj)
 
-  
+
