@@ -19,8 +19,8 @@ Phylogenetic comparative methods presents multiple potential pitfalls. In this l
 
 #### Lecture projection:
 
--   [ppt version](Best Practices in PCM.pptx)
--   [pdf version](Best Practices in PCM.pdf)
+-   [ppt version](BestPracticesInPCM.pptx)
+-   [pdf version](BestPracticesInPCM.pdf)
 
 Relevant Papers:
 <!-- \* [Houle et al. 2017](hansen2017.pdf) -->
