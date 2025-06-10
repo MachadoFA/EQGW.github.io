@@ -20,10 +20,5 @@ Description of your lecture topic. Any instructions.
   
 #### Lecture projections: ####
   
-
-#### Background readings:  ####
-
-
-#### Media/Data/Etc ####
-
+* [CarterEQG2025Lect2-1.pdf](/2025/lecture2-1/CarterEQG2025Lect2-1.pdf)
   
