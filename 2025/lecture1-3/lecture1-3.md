@@ -15,12 +15,19 @@
 
 ### Instructor: Joe Felsenstein ###
   
-Description of your lecture topic. Any instructions.
+More discussion of quantitative genetics, followed by a brief history of 
+the workshop, in its previous incarnations, and then some thoughts on 
+the (tenuous) connections between the within- and between-species inferences 
+in evolutionary biology.
   
 #### Lecture projection: ####
   
 PDF: [Here](history.pdf)
 
 #### Miscellaneous ####
+
+This 2017 projection PDF by me is an alternative way of presenting 
+the basic theory of quantitative genetics, one actually completely 
+consistent with the logic of Patrick Carter's presentation. 
 
 [2017 lecture on basics of quantitative genetics](heritability.pdf)
