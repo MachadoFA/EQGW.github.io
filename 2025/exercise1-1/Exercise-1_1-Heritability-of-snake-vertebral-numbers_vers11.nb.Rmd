@@ -1,0 +1,129 @@
+---
+title: "Calculating heritability from the parent-offspring regression"
+output: html_notebook
+---
+
+Josef C Uyeda & Stevan J Arnold
+(original 2011, revised July 9, 2021)
+
+# Estimating heritability for garter snake litters
+## Getting data into R
+
+Get your data into R by following the following steps. Save the entire Exercise 
+1.1 directory or download the script and data file. We will use the data file:
+ * R_inland_snake_data.txt
+If needed, set your working directory by putting the path to the downloaded 
+folder you created in the following statement. If you opened this R session and 
+script from the Exercise directory, you can use relative paths and skip this step.
+Be sure and use the / not the \ spacing convention!
+
+```{r}
+library(dplyr)
+setwd('./') #You may need to set your working directory to where you downloaded the files
+```
+
+Our dataset contains garter snake scale counts for mothers and their offspring. 
+Scale counts are good for this sort of comparison because they do not vary with
+ontogeny. Why is this important? Why does this simplify estimating heritability 
+from a parent-offspring regression?
+
+```{r}
+thamnophis <- read.table('R_inland_snake_data.txt',header=TRUE)
+thamnophis
+```
+
+Here, each family represents a gravid female snake that was caught and all of her 
+offspring. The first entry for a given family is the mother's trait 
+data. The subsequent entries are her kids. We will use `dplyr` to reorganize 
+the dataset into two sets of columns for each family calculating
+the mother's and the kids' trait means. Male snakes tend to have higher 
+vertebral counts than female snakes. This dataset has already had the effects
+of sex removed (which explains why some kids have fractional scale counts).
+
+```{r}
+thamnophis <- group_by(thamnophis, family) # Use the variable `family` as a grouping variable
+moms <- filter(thamnophis, row_number()==1) # Extract first row for each family
+kids <- filter(thamnophis, row_number()!=1) %>% dplyr::summarize(., across(body:post, ~ mean(.x, na.rm=TRUE))) #Extract all but the first row for each family, and summarize by averaging all traits, from `body` to `post`.
+families <- left_join(moms, kids, "family", suffix=c(".mom", ".kids")) #Re-join mom and kids
+families
+```
+
+Now we can estimate heritabilities from a parent-offspring regression. Plot the 
+mother and offspring body vertebrae and fit a linear regression. 
+Then add a trendline from the linear regression fit. Note that the second line 
+will not run without you filling in the appropriate equation.
+
+```{r}
+plot(families$body.mom, families$body.kids, pch=19, col="blue", cex=1.5, xlab="Body (Dam)", ylab="Body (Offspring)")
+lm1 <- ??? # Fill in the appropriate call here
+abline(lm1, lwd=5, lty=2)
+summary(lm1)
+
+#Questions:
+#What parameter is associated with the heritability? 
+#How do we obtain our estimate of the heritability for these data (remember the relatedness)? 
+#Is this narrow-sense or broad-sense heritability?
+```
+
+Save the results below. Note that the lines marked with `???` will throw an 
+error. Your job is to replace with the appropriate equation and variables.
+
+```{r}
+h2 <- list() #heritability
+Vp <- list() #phenotypic variance
+Va <- list() #additive genetic variance
+
+h2$body <- ??? #Remember we only have 1 of the parents. Use the slope from the linear model 
+               # by using `lm1$coefficients[2]`
+Vp$body <- var(moms$body, na.rm=TRUE) # Could also include offspring, but non-independent samples
+Va$body <- ??? # Use equation for heritability
+```
+
+Now repeat the analysis for tail (and other variables).
+
+```{r}
+
+
+```
+
+How much confidence should we have in these estimates? One way to estimate
+uncertainty and confidence limits with minimal distributional assumptions is
+to conduct a bootstrap.
+
+```{r}
+nreps <- 1000 # Number of bootstrap replicates
+bootsample <- matrix(NA, nrow=nreps, ncol=6) # Create an empty matrix where we will store results
+colnames(bootsample) <- colnames(thamnophis)[3:8] # Set the column names of the empty results matrix
+for(i in 1:nreps){
+  samp <- sample(1:nrow(families), nrow(families), replace=TRUE) # Key step to a bootstrap: Resample families with replacement
+  .newfamilies <- families[samp,] #Use the resampled families to create a new dataset where different families are randomly reweighted in frequency
+  h2row <- list() #Stpre results for each trait
+  for(j in 3:8){ #iterate over each of the traits
+    trait <- colnames(thamnophis)[j] 
+    h2row[[trait]] <- 2*unname(lm(.newfamilies[[j+6]] ~ .newfamilies[[j]])$coefficients[2])
+  }
+  bootsample[i,] <- do.call(c, h2row)
+}
+
+```
+
+Now we can plot our resulting distributions:
+
+```{r}
+
+par(mfrow=c(3,2))
+for(i in 1:ncol(bootsample)){
+  traitname <- colnames(bootsample)[i]
+  hist(bootsample[,i], main=traitname, xlim=c(-0.5, 1.5), breaks=nreps/20, xlab="heritability") 
+  abline(v=mean(bootsample[,i]), lty=2, lwd=3)
+  abline(v=0, lwd=2, col="red")
+  abline(v=1, lwd=2, col="red")
+}
+```
+
+Here, we ignored variation in the sizes of families. How should that affect our 
+analyses? What have we learned how to do? This is admittedly a simplistic method 
+of estimating heritability and additive genetic variance. We will learn about 
+more sophisticated tools in the lecture and lab with Patrick Carter. How might 
+our estimates be biased or an inaccurate estimate of the true heritability and 
+additive genetic variation? 
